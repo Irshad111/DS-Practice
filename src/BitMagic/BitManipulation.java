@@ -16,6 +16,7 @@ public class BitManipulation {
 			//System.out.println(poweroftwo(31));
 		     logicalshift(-75);
 		     airthmaticshift(-75);
+
 		}
 
 		public static void oddeven(int num) {
